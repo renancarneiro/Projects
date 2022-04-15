@@ -1,2 +1,2 @@
 # Resolução de exercicios do curso da DS Academy
-Aqui estão a resolução dos exercicios que eu realizei
+Aqui estão a resolução dos exercicios que eu realizei para o curso
